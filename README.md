@@ -25,3 +25,6 @@
 
 - 사용자 상황에 알맞은 운동, 식이요법을 추천하는 기능을 추가할 예정입니다.
 - provide proper exercise method or diet.
+
+
+https://blog.naver.com/robo813/221423833728
